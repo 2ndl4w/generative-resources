@@ -1,4 +1,4 @@
-# generative-resources
+# Generative Resources
 A collection of Processing/P5.js generative art resources.
 
 ## Resources
