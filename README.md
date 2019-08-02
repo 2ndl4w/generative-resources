@@ -41,3 +41,6 @@ A collection of Processing/P5.js generative art resources.
 * [Steven H. Strogatz - Nonlinear dynamics and chaos ](http://arslanranjha.weebly.com/uploads/4/8/9/3/4893701/nonlinear-dynamics-and-chaos-strogatz.pdf)
 
 * [Daniel Shiffman - The nature of code](https://natureofcode.com/)
+
+* [Matt Pearson - Generative Art: A Practical Guide Using Processing](https://natureofcode.com/)
+
